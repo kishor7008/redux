@@ -6,3 +6,12 @@ export const IncFunc = (data) => {
 export const DecFunc = () => {
     return { type: "DECREAMENT" }
 }
+
+
+
+
+// //profile :{
+//     name,age,salary
+// }
+
+
